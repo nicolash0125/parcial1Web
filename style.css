@@ -1,0 +1,10 @@
+@font-face{
+    font-family: 'Specimen';
+    src:url('fonts/Satisfy/Satisfy-Regular.ttf')
+}
+.logotipo{
+    font-family: 'Specimen';    
+}
+.top-image{
+    width: 100%;
+}
