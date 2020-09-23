@@ -8,3 +8,26 @@
 .top-image{
     width: 100%;
 }
+.icon{
+    width: 2rem;
+}
+.visible{
+    display: block;
+}
+.invisible{
+    display: none;
+}
+.red-btn{
+    color: black;
+    border: black;
+    border-style: solid;
+    border-width: thin;
+    background-color: lightcoral;
+}
+.soft-btn{
+    color: black;
+    border: black;
+    border-style: solid;
+    border-width: thin;
+    background-color: cornsilk;
+}
